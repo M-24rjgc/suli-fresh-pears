@@ -49,7 +49,7 @@ function App() {
         {
           id: product.id,
           name: product.name,
-          image: product.image || '/images/pear-product.jpg',
+          image: product.image || import.meta.env.BASE_URL + 'images/pear-product.jpg',
           price: product.price,
           quantity: 1,
         },

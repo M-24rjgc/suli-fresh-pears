@@ -4,7 +4,7 @@ import { ChevronLeft, ChevronRight } from 'lucide-react';
 
 const slides = [
   {
-    image: '/images/hero-bg.jpg',
+    image: import.meta.env.BASE_URL + 'images/hero-bg.jpg',
     title: '宁陵酥梨 · 品牌焕新升级',
     subtitle: '产地直发 · 数智运营 · 文旅融合',
     description: [
@@ -13,7 +13,7 @@ const slides = [
     ],
   },
   {
-    image: '/images/梨花节.jpg',
+    image: import.meta.env.BASE_URL + 'images/梨花节.jpg',
     title: '宁陵酥梨 · 中国酥梨之乡',
     subtitle: '国家地理标志保护产品 | 700年贡梨历史',
     description: [
@@ -22,7 +22,7 @@ const slides = [
     ],
   },
   {
-    image: '/images/pear-picking.jpg',
+    image: import.meta.env.BASE_URL + 'images/pear-picking.jpg',
     title: '春赏花 · 夏乘荫 · 秋品果 · 冬研学',
     subtitle: '四季农文旅融合体验',
     description: [
@@ -31,7 +31,7 @@ const slides = [
     ],
   },
   {
-    image: '/images/ancient-tree.jpg',
+    image: import.meta.env.BASE_URL + 'images/ancient-tree.jpg',
     title: '百年古梨树 · 千年梨文化',
     subtitle: '1070棵百年古梨树见证历史',
     description: [
@@ -40,7 +40,7 @@ const slides = [
     ],
   },
   {
-    image: '/images/hero-bg2.jpg',
+    image: import.meta.env.BASE_URL + 'images/hero-bg2.jpg',
     title: '一颗酥梨的产业故事',
     subtitle: '鲜果、文创、深加工协同发展',
     description: [
@@ -49,7 +49,7 @@ const slides = [
     ],
   },
   {
-    image: '/images/hero-pear.jpg',
+    image: import.meta.env.BASE_URL + 'images/hero-pear.jpg',
     title: '现摘现发 · 脆甜多汁',
     subtitle: '当季鲜果，冷链锁鲜到家',
     description: [

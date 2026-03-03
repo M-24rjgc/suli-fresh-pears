@@ -25,7 +25,7 @@ const activities: Activity[] = [
     price: 30,
     description: '梨花盛开，万顷梨园变成白色花海，汉服拍照打卡胜地',
     features: ['梨花观赏', '汉服拍照', '梨花小铺', '限定伴手礼'],
-    image: '/images/梨花节.jpg',
+    image: import.meta.env.BASE_URL + 'images/梨花节.jpg',
   },
   {
     id: 'summer',
@@ -36,7 +36,7 @@ const activities: Activity[] = [
     price: 69,
     description: '亲子研学体验，了解梨文化，动手制作梨膏',
     features: ['古梨树导览', '梨膏熬制体验', '梨渣造纸DIY', '亲子互动'],
-    image: '/images/梨花汉服.jpg',
+    image: import.meta.env.BASE_URL + 'images/梨花汉服.jpg',
   },
   {
     id: 'autumn',
@@ -47,7 +47,7 @@ const activities: Activity[] = [
     price: 45,
     description: '亲手采摘酥梨，品尝即食炖梨，带走新鲜果实',
     features: ['酥梨采摘', '梨园寻宝', '即食炖梨品尝', '5斤带走'],
-    image: '/images/酥梨采摘.jpg',
+    image: import.meta.env.BASE_URL + 'images/酥梨采摘.jpg',
   },
   {
     id: 'winter',
@@ -58,7 +58,7 @@ const activities: Activity[] = [
     price: 0,
     description: '梨乡年礼，非遗展示，年货采购一站式体验',
     features: ['文创礼盒', '非遗展示', '年货采购', '企业福利'],
-    image: '/images/pear-picking.jpg',
+    image: import.meta.env.BASE_URL + 'images/pear-picking.jpg',
   },
 ];
 

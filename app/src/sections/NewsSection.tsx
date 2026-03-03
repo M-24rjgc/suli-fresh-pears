@@ -8,21 +8,21 @@ const newsItems = [
     title: '2026宁陵梨花文化季发布年度活动日历',
     date: '2026-02-18',
     excerpt: '宁陵县发布2026年度梨花文化季活动安排，涵盖赏花节、非遗体验、研学路线与农产品市集，持续推进农文旅融合发展...',
-    image: '/images/梨花节.jpg',
+    image: import.meta.env.BASE_URL + 'images/梨花节.jpg',
   },
   {
     id: 2,
     title: '宁陵酥梨标准化示范基地通过年度复评',
     date: '2026-01-09',
     excerpt: '宁陵酥梨标准化种植示范基地顺利通过年度复评，果园管理、品质追溯与冷链仓储能力持续提升，助力品牌高质量发展...',
-    image: '/images/news-bg.jpg',
+    image: import.meta.env.BASE_URL + 'images/news-bg.jpg',
   },
   {
     id: 3,
     title: '高校创新团队发布酥梨深加工新品方案',
     date: '2026-02-03',
     excerpt: '多所高校联合宁陵本地企业发布酥梨深加工新品方案，围绕梨膏、梨汁与文创礼盒展开产品升级，推动产业链协同创新...',
-    image: '/images/news-event.jpg',
+    image: import.meta.env.BASE_URL + 'images/news-event.jpg',
   },
 ];
 

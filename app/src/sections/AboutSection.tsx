@@ -132,7 +132,7 @@ export default function AboutSection() {
           >
             <div className="relative rounded-lg overflow-hidden shadow-xl">
               <img
-                src="/images/ancient-tree.jpg"
+                src={import.meta.env.BASE_URL + "images/ancient-tree.jpg"}
                 alt="百年古梨树"
                 className="w-full h-auto"
               />

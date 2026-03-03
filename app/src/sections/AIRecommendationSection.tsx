@@ -61,21 +61,21 @@ const questions: Question[] = [
 
 const recommendations: Record<string, RecommendationProduct[]> = {
   'student-self-low-fresh': [
-    { id: 301, name: '煲汤小果', desc: '5斤装，性价比高', price: 19, image: '/images/pear-product.jpg' },
+    { id: 301, name: '煲汤小果', desc: '5斤装，性价比高', price: 19, image: import.meta.env.BASE_URL + 'images/pear-product.jpg' },
   ],
   'worker-health-medium-paste': [
-    { id: 302, name: '酥梨膏', desc: '250g/瓶，润肺养生', price: 39.9, image: '/images/pear-paste.jpg' },
+    { id: 302, name: '酥梨膏', desc: '250g/瓶，润肺养生', price: 39.9, image: import.meta.env.BASE_URL + 'images/pear-paste.jpg' },
   ],
   'mom-child-medium-juice': [
-    { id: 303, name: '梨膏棒棒糖', desc: '10支/袋，无添加', price: 18.8, image: '/images/pear-lollipop.jpg' },
+    { id: 303, name: '梨膏棒棒糖', desc: '10支/袋，无添加', price: 18.8, image: import.meta.env.BASE_URL + 'images/pear-lollipop.jpg' },
   ],
   'worker-gift-premium-gift': [
-    { id: 304, name: '酥梨膏礼盒装', desc: '250ml*4，高端大气', price: 128, image: '/images/pear-paste.jpg' },
+    { id: 304, name: '酥梨膏礼盒装', desc: '250ml*4，高端大气', price: 128, image: import.meta.env.BASE_URL + 'images/pear-paste.jpg' },
   ],
   default: [
-    { id: 305, name: '现摘老梨树大果', desc: '5斤装，百年老梨树', price: 25, image: '/images/pear-product.jpg' },
-    { id: 306, name: '酥梨膏', desc: '250g/瓶，传统工艺', price: 39.9, image: '/images/pear-paste.jpg' },
-    { id: 307, name: '梨膏棒棒糖', desc: '10支/袋，健康零食', price: 18.8, image: '/images/pear-lollipop.jpg' },
+    { id: 305, name: '现摘老梨树大果', desc: '5斤装，百年老梨树', price: 25, image: import.meta.env.BASE_URL + 'images/pear-product.jpg' },
+    { id: 306, name: '酥梨膏', desc: '250g/瓶，传统工艺', price: 39.9, image: import.meta.env.BASE_URL + 'images/pear-paste.jpg' },
+    { id: 307, name: '梨膏棒棒糖', desc: '10支/袋，健康零食', price: 18.8, image: import.meta.env.BASE_URL + 'images/pear-lollipop.jpg' },
   ],
 };
 
