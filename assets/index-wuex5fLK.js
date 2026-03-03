@@ -20887,7 +20887,7 @@ function Navbar({ cartCount, onCartClick }) {
 }
 const slides = [
   {
-    image: "/images/hero-bg.jpg",
+    image: "/suli-fresh-pears/images/hero-bg.jpg",
     title: "宁陵酥梨 · 品牌焕新升级",
     subtitle: "产地直发 · 数智运营 · 文旅融合",
     description: [
@@ -20896,7 +20896,7 @@ const slides = [
     ]
   },
   {
-    image: "/images/梨花节.jpg",
+    image: "/suli-fresh-pears/images/梨花节.jpg",
     title: "宁陵酥梨 · 中国酥梨之乡",
     subtitle: "国家地理标志保护产品 | 700年贡梨历史",
     description: [
@@ -20905,7 +20905,7 @@ const slides = [
     ]
   },
   {
-    image: "/images/pear-picking.jpg",
+    image: "/suli-fresh-pears/images/pear-picking.jpg",
     title: "春赏花 · 夏乘荫 · 秋品果 · 冬研学",
     subtitle: "四季农文旅融合体验",
     description: [
@@ -20914,7 +20914,7 @@ const slides = [
     ]
   },
   {
-    image: "/images/ancient-tree.jpg",
+    image: "/suli-fresh-pears/images/ancient-tree.jpg",
     title: "百年古梨树 · 千年梨文化",
     subtitle: "1070棵百年古梨树见证历史",
     description: [
@@ -20923,7 +20923,7 @@ const slides = [
     ]
   },
   {
-    image: "/images/hero-bg2.jpg",
+    image: "/suli-fresh-pears/images/hero-bg2.jpg",
     title: "一颗酥梨的产业故事",
     subtitle: "鲜果、文创、深加工协同发展",
     description: [
@@ -20932,7 +20932,7 @@ const slides = [
     ]
   },
   {
-    image: "/images/hero-pear.jpg",
+    image: "/suli-fresh-pears/images/hero-pear.jpg",
     title: "现摘现发 · 脆甜多汁",
     subtitle: "当季鲜果，冷链锁鲜到家",
     description: [
@@ -21185,7 +21185,7 @@ function AboutSection() {
           children: /* @__PURE__ */ jsxRuntimeExports.jsx("div", { className: "relative rounded-lg overflow-hidden shadow-xl", children: /* @__PURE__ */ jsxRuntimeExports.jsx(
             "img",
             {
-              src: "/images/ancient-tree.jpg",
+              src: "/suli-fresh-pears/images/ancient-tree.jpg",
               alt: "百年古梨树",
               className: "w-full h-auto"
             }
@@ -21228,7 +21228,7 @@ const products$1 = [
     id: 1,
     name: "煲汤小果",
     category: "small",
-    image: "/images/pear-product.jpg",
+    image: "/suli-fresh-pears/images/pear-product.jpg",
     weight: "5斤",
     price: 19,
     origin: "宁陵核心产区"
@@ -21237,7 +21237,7 @@ const products$1 = [
     id: 2,
     name: "现摘老梨树大果",
     category: "large",
-    image: "/images/pear-product.jpg",
+    image: "/suli-fresh-pears/images/pear-product.jpg",
     weight: "5斤",
     price: 25,
     origin: "百年老梨树"
@@ -21246,7 +21246,7 @@ const products$1 = [
     id: 3,
     name: "现摘煲汤炖梨小果",
     category: "small",
-    image: "/images/pear-product.jpg",
+    image: "/suli-fresh-pears/images/pear-product.jpg",
     weight: "9-10斤",
     price: 35,
     origin: "宁陵核心产区"
@@ -21255,7 +21255,7 @@ const products$1 = [
     id: 4,
     name: "现摘商超品质精选中果",
     category: "medium",
-    image: "/images/pear-product.jpg",
+    image: "/suli-fresh-pears/images/pear-product.jpg",
     weight: "9-10斤",
     price: 37.85,
     origin: "宁陵核心产区"
@@ -21264,7 +21264,7 @@ const products$1 = [
     id: 5,
     name: "现摘老梨树大果礼盒装",
     category: "gift",
-    image: "/images/pear-giftbox.jpg",
+    image: "/suli-fresh-pears/images/pear-giftbox.jpg",
     weight: "9-10斤",
     price: 39,
     origin: "百年老梨树"
@@ -21273,7 +21273,7 @@ const products$1 = [
     id: 6,
     name: "特级酥梨鲜果礼盒",
     category: "gift",
-    image: "/images/pear-giftbox.jpg",
+    image: "/suli-fresh-pears/images/pear-giftbox.jpg",
     weight: "8个/盒",
     price: 88,
     origin: "宁陵核心产区"
@@ -21383,7 +21383,7 @@ const products = [
     id: 101,
     name: "酥梨膏",
     category: "paste",
-    image: "/images/pear-paste.jpg",
+    image: "/suli-fresh-pears/images/pear-paste.jpg",
     spec: "250g/瓶",
     price: 39.9,
     originalPrice: 49.9
@@ -21392,7 +21392,7 @@ const products = [
     id: 102,
     name: "酥梨膏礼盒装",
     category: "paste",
-    image: "/images/pear-paste.jpg",
+    image: "/suli-fresh-pears/images/pear-paste.jpg",
     spec: "250ml*4",
     price: 128,
     originalPrice: 158
@@ -21401,7 +21401,7 @@ const products = [
     id: 103,
     name: "梨膏棒棒糖",
     category: "candy",
-    image: "/images/pear-lollipop.jpg",
+    image: "/suli-fresh-pears/images/pear-lollipop.jpg",
     spec: "10支/袋",
     price: 18.8
   },
@@ -21409,7 +21409,7 @@ const products = [
     id: 104,
     name: "酥梨香炉水果摆件",
     category: "gift",
-    image: "/images/pear-product.jpg",
+    image: "/suli-fresh-pears/images/pear-product.jpg",
     spec: "8.6*8.6*11.6cm",
     price: 39.8
   },
@@ -21417,7 +21417,7 @@ const products = [
     id: 105,
     name: "小碗即食炖梨",
     category: "paste",
-    image: "/images/pear-stewed.jpg",
+    image: "/suli-fresh-pears/images/pear-stewed.jpg",
     spec: "6碗/盒",
     price: 68,
     originalPrice: 88
@@ -21426,7 +21426,7 @@ const products = [
     id: 106,
     name: "酥梨记事本",
     category: "gift",
-    image: "/images/pear-product.jpg",
+    image: "/suli-fresh-pears/images/pear-product.jpg",
     spec: "A5",
     price: 9.9
   }
@@ -21620,21 +21620,21 @@ const questions = [
 ];
 const recommendations = {
   "student-self-low-fresh": [
-    { id: 301, name: "煲汤小果", desc: "5斤装，性价比高", price: 19, image: "/images/pear-product.jpg" }
+    { id: 301, name: "煲汤小果", desc: "5斤装，性价比高", price: 19, image: "/suli-fresh-pears/images/pear-product.jpg" }
   ],
   "worker-health-medium-paste": [
-    { id: 302, name: "酥梨膏", desc: "250g/瓶，润肺养生", price: 39.9, image: "/images/pear-paste.jpg" }
+    { id: 302, name: "酥梨膏", desc: "250g/瓶，润肺养生", price: 39.9, image: "/suli-fresh-pears/images/pear-paste.jpg" }
   ],
   "mom-child-medium-juice": [
-    { id: 303, name: "梨膏棒棒糖", desc: "10支/袋，无添加", price: 18.8, image: "/images/pear-lollipop.jpg" }
+    { id: 303, name: "梨膏棒棒糖", desc: "10支/袋，无添加", price: 18.8, image: "/suli-fresh-pears/images/pear-lollipop.jpg" }
   ],
   "worker-gift-premium-gift": [
-    { id: 304, name: "酥梨膏礼盒装", desc: "250ml*4，高端大气", price: 128, image: "/images/pear-paste.jpg" }
+    { id: 304, name: "酥梨膏礼盒装", desc: "250ml*4，高端大气", price: 128, image: "/suli-fresh-pears/images/pear-paste.jpg" }
   ],
   default: [
-    { id: 305, name: "现摘老梨树大果", desc: "5斤装，百年老梨树", price: 25, image: "/images/pear-product.jpg" },
-    { id: 306, name: "酥梨膏", desc: "250g/瓶，传统工艺", price: 39.9, image: "/images/pear-paste.jpg" },
-    { id: 307, name: "梨膏棒棒糖", desc: "10支/袋，健康零食", price: 18.8, image: "/images/pear-lollipop.jpg" }
+    { id: 305, name: "现摘老梨树大果", desc: "5斤装，百年老梨树", price: 25, image: "/suli-fresh-pears/images/pear-product.jpg" },
+    { id: 306, name: "酥梨膏", desc: "250g/瓶，传统工艺", price: 39.9, image: "/suli-fresh-pears/images/pear-paste.jpg" },
+    { id: 307, name: "梨膏棒棒糖", desc: "10支/袋，健康零食", price: 18.8, image: "/suli-fresh-pears/images/pear-lollipop.jpg" }
   ]
 };
 function AIRecommendationSection({ onAddToCart }) {
@@ -26949,7 +26949,7 @@ const activities = [
     price: 30,
     description: "梨花盛开，万顷梨园变成白色花海，汉服拍照打卡胜地",
     features: ["梨花观赏", "汉服拍照", "梨花小铺", "限定伴手礼"],
-    image: "/images/梨花节.jpg"
+    image: "/suli-fresh-pears/images/梨花节.jpg"
   },
   {
     id: "summer",
@@ -26960,7 +26960,7 @@ const activities = [
     price: 69,
     description: "亲子研学体验，了解梨文化，动手制作梨膏",
     features: ["古梨树导览", "梨膏熬制体验", "梨渣造纸DIY", "亲子互动"],
-    image: "/images/梨花汉服.jpg"
+    image: "/suli-fresh-pears/images/梨花汉服.jpg"
   },
   {
     id: "autumn",
@@ -26971,7 +26971,7 @@ const activities = [
     price: 45,
     description: "亲手采摘酥梨，品尝即食炖梨，带走新鲜果实",
     features: ["酥梨采摘", "梨园寻宝", "即食炖梨品尝", "5斤带走"],
-    image: "/images/酥梨采摘.jpg"
+    image: "/suli-fresh-pears/images/酥梨采摘.jpg"
   },
   {
     id: "winter",
@@ -26982,7 +26982,7 @@ const activities = [
     price: 0,
     description: "梨乡年礼，非遗展示，年货采购一站式体验",
     features: ["文创礼盒", "非遗展示", "年货采购", "企业福利"],
-    image: "/images/pear-picking.jpg"
+    image: "/suli-fresh-pears/images/pear-picking.jpg"
   }
 ];
 function TourismSection() {
@@ -27395,21 +27395,21 @@ const newsItems = [
     title: "2026宁陵梨花文化季发布年度活动日历",
     date: "2026-02-18",
     excerpt: "宁陵县发布2026年度梨花文化季活动安排，涵盖赏花节、非遗体验、研学路线与农产品市集，持续推进农文旅融合发展...",
-    image: "/images/梨花节.jpg"
+    image: "/suli-fresh-pears/images/梨花节.jpg"
   },
   {
     id: 2,
     title: "宁陵酥梨标准化示范基地通过年度复评",
     date: "2026-01-09",
     excerpt: "宁陵酥梨标准化种植示范基地顺利通过年度复评，果园管理、品质追溯与冷链仓储能力持续提升，助力品牌高质量发展...",
-    image: "/images/news-bg.jpg"
+    image: "/suli-fresh-pears/images/news-bg.jpg"
   },
   {
     id: 3,
     title: "高校创新团队发布酥梨深加工新品方案",
     date: "2026-02-03",
     excerpt: "多所高校联合宁陵本地企业发布酥梨深加工新品方案，围绕梨膏、梨汁与文创礼盒展开产品升级，推动产业链协同创新...",
-    image: "/images/news-event.jpg"
+    image: "/suli-fresh-pears/images/news-event.jpg"
   }
 ];
 function NewsSection() {
@@ -27831,7 +27831,7 @@ function App() {
         {
           id: product.id,
           name: product.name,
-          image: product.image || "/images/pear-product.jpg",
+          image: product.image || "/suli-fresh-pears/images/pear-product.jpg",
           price: product.price,
           quantity: 1
         }
